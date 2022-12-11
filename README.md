@@ -3,7 +3,8 @@
 - 🌱 I’m currently advancing my skills in data science and machine learning
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 Reach me on kulabernard@gmail.com
-![Working](https://user-images.githubusercontent.com/88874523/206899323-b82b4c11-b3db-4482-8eaf-ac947932f2e1.gif)
+![Working_Job Hunting](https://user-images.githubusercontent.com/88874523/206899397-a78b6d34-a6fe-4685-81e2-6e1896df3b31.gif)
+
 
 
 <!---
